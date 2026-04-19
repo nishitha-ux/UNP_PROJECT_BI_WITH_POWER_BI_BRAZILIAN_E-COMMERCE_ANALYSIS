@@ -7,7 +7,7 @@ Based on the insights, I also provided practical business recommendations such a
 Overall, this project enhanced my skills in data visualization, data analysis, and dashboard design using Power BI, and demonstrated how data-driven insights can support better decision-making and improve business performance.
 
 
-PROJECT PDF FILE : https://drive.google.com/file/d/1SBNtCczON2h7elZ0ei50UtmmOym9yL6_/view?usp=sharing
+PROJECT PDF FILE : https://drive.google.com/file/d/1YxPv1LbnsGR1-UkpFcMK9ww9gr_1oVtt/view?usp=sharing
 
 
 PROJECT PBIX FILE : https://drive.google.com/file/d/1SBNtCczON2h7elZ0ei50UtmmOym9yL6_/view?usp=sharing
